@@ -1,0 +1,4 @@
+#Program #5 - Day 3 - Guess The Number v0.1
+#IDEA: Use random module, randomly generate number unknown to the user. User needs to input number. If user is correct, congrats, if user is wrong - indicate if too high or too low. Need functions to check if the user inputted a real integer - see difference from RNG and user input and then compare.
+#Concepts to keep in mind:  Random Functions - Variables - Integers - Input/Output - Print - While Loops - If/Else statements
+
